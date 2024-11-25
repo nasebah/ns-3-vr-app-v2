@@ -1,7 +1,7 @@
 VR traffic model for ns-3
 =========================
 
-This repository is a fork of the original NS-3 VR App framework. It includes an extension to enhance its functionality and adapt it to new use cases. The VR App in NS-3 simulates Virtual Reality (VR) network applications, allowing researchers to study the impact of network conditions on VR performance.
+This repository is a **fork of the [NS-3 VR App framework](https://github.com/signetlabdei/ns-3-vr-app)**. It includes an extension to enhance its functionality and adapt it to new use cases. The VR App in NS-3 simulates Virtual Reality (VR) network applications, allowing researchers to study the impact of network conditions on VR performance.
 
 
 ## Reference papers
